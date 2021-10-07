@@ -9,7 +9,6 @@ class Eskola:
 
     def menua(self):
         opcion = 0
-
         while opcion != 3:
             print("-------------Menú-------------")
             print("1.- Ikasleak gehitu ")

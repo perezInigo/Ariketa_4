@@ -14,4 +14,4 @@ ikaslea = Ikaslea("Iñigo",notas_prueba)
 alumnos_prueba.append(ikaslea)
 
 eskola = Eskola(alumnos_prueba)
-eskola.menua()
+Eskola.menua()
